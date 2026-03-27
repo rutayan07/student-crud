@@ -194,7 +194,7 @@ Invalid input returns:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Rutayan Patra**
 
 ---
 
