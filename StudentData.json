@@ -1,0 +1,50 @@
+[
+  {
+    "name": "rohan",
+    "age": "20",
+    "course": "B.Tech",
+    "id": 1
+  },
+  {
+    "name": "rutayan",
+    "age": "21",
+    "course": "btech",
+    "id": 2
+  },
+  {
+    "name": "jack",
+    "age": "21",
+    "course": "MCA",
+    "id": 3
+  },
+  {
+    "name": "rohan",
+    "age": "21",
+    "course": "btech",
+    "id": 4
+  },
+  {
+    "name": "yoyo",
+    "age": "21",
+    "course": "B.Arch",
+    "id": 5
+  },
+  {
+    "name": "Rono",
+    "age": 21,
+    "course": "B.Tech",
+    "id": 6
+  },
+  {
+    "name": "Rono",
+    "age": 21,
+    "course": "B.Tech",
+    "id": 7
+  },
+  {
+    "name": "Rono",
+    "age": 21,
+    "course": "B.Tech",
+    "id": 8
+  }
+]
